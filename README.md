@@ -2,7 +2,7 @@
 
 420-931-VA - Front End Web Programming Project (Winter 2025)
 
-This template repository is the starter project for Front-end Programming Project. Written in HTML, CSS and JavaScript.
+This template repository is the starter project for Front End Web Programming Project. Written in HTML, CSS and JavaScript.
 
 ### Project Description
 
